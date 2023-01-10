@@ -1,0 +1,7 @@
+
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(áÞ¤…ùÿÿÿÿ8à¥–»Ù0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Æ‰’Ö8²´—»Ù0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ìÃªÝøÿÿÿÿ8¬™›»Ù0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(°æóœ8¤ù´»Ù0
+s
+java:S2159"VRemove this call to "equals"; comparisons between unrelated types always return false.(°æóœ8ŽÔµ»Ù0
