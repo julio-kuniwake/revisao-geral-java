@@ -16,8 +16,9 @@ public class JogoMain {
 
         System.out.println();
         System.out.println("Vilão atacou");
-        System.out.println();
         vilao.atacar(heroi);
+        System.out.println("Heroi atacou \n");
+        heroi.atacar(vilao);
 
         System.out.println("Vida do vilão -> " + vilao.vida);
         System.out.println("Vida do heroi -> " + heroi.vida);
