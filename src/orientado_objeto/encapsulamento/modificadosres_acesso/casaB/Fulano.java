@@ -1,6 +1,6 @@
-package orientado_objeto.encapsulamento.casaB;
+package orientado_objeto.encapsulamento.modificadosres_acesso.casaB;
 
-import orientado_objeto.encapsulamento.casaA.Carol;
+import orientado_objeto.encapsulamento.modificadosres_acesso.casaA.Carol;
 
 public class Fulano {
 

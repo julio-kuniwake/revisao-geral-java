@@ -1,4 +1,4 @@
-package orientado_objeto.encapsulamento.casaA;
+package orientado_objeto.encapsulamento.modificadosres_acesso.casaA;
 
 public class Carol {
     private String segredo = "....";
