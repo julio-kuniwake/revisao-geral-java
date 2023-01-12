@@ -1,4 +1,4 @@
-package lambdas.functional_interface;
+package lambdas.exemplo_lambda;
 
 @FunctionalInterface
 // Quer dizer que esta interface tem apenas um unico metodo ABSTRATO, podendo assim usar as expressoes lambda

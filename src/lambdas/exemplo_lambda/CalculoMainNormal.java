@@ -1,4 +1,4 @@
-package lambdas.functional_interface;
+package lambdas.exemplo_lambda;
 
 // Neste exeplo sem expressoes lambda tem a necessidade de ter as classes 'Multiplicar e Somar'
 public class CalculoMainNormal {

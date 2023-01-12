@@ -1,4 +1,4 @@
-package lambdas.functional_interface;
+package lambdas.exemplo_lambda;
 
 // Para usar a expressão lambda a interface tem que ter apenas um metodo.
 // para que assim o java saiba que se trata do metodo especifico da interface.

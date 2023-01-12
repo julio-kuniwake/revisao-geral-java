@@ -1,4 +1,4 @@
-package lambdas.functional_interface;
+package lambdas.exemplo_lambda;
 
 public class Somar implements Calculo {
     @Override
