@@ -19,5 +19,8 @@ public class CalculoMainLambda {
         // Quando se tem apenas uma sentença de codigo.
         calculo = (a, b) -> a * b;
         System.out.println(calculo.executar(2, 3));
+
+        System.out.println("\n" + calculo.defaultPode());
+        System.out.println(Calculo.staticPode());
     }
 }
