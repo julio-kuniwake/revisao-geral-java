@@ -1,4 +1,4 @@
-package lambdas.exemplo1;
+package lambdas.functional_interface;
 
 // Para usar a expressão lambda a interface tem que ter apenas um metodo.
 // para que assim o java saiba que se trata do metodo especifico da interface.
@@ -14,6 +14,7 @@ public class CalculoMainLambda {
             return result;
         };
         System.out.println(calculo.executar(2, 3));
+//  ******************************************************************************************
 
         // Exemplo de expressão lambda sem '{}'
         // Quando se tem apenas uma sentença de codigo.

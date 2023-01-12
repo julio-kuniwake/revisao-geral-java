@@ -1,4 +1,4 @@
-package lambdas.exemplo1;
+package lambdas.functional_interface;
 
 import java.util.function.BinaryOperator;
 
@@ -12,20 +12,10 @@ public class CalculoMainLambdaBinaryOperator {
             return result;
         };
         System.out.println(calculo.apply(2.0, 3.0)); // usando o 'apply'
+//  ******************************************************************************************
 
         calculo = (a, b) -> a * b;
         System.out.println(calculo.apply(2.0, 3.0));
-
-
-        // Exemplo com Integer
-        BinaryOperator<Integer> calculo2 = (a, b) -> {
-            int result = a + b;
-            return result;
-        };
-        System.out.println(calculo2.apply(2, 3)); // usando o 'apply'
-
-        calculo2 = (a, b) -> a * b;
-        System.out.println(calculo2.apply(2, 3));
 
     }
 }

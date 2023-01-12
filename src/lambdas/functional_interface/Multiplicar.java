@@ -1,4 +1,4 @@
-package lambdas.exemplo1;
+package lambdas.functional_interface;
 
 public class Multiplicar implements Calculo {
     @Override
