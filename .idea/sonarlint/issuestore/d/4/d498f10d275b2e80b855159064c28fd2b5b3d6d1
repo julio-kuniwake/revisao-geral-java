@@ -1,0 +1,16 @@
+
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ºØüÛÿÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(•†Ìö
+H
+java:S1611"2Remove the parentheses around the "nome" parameter(òï·¯
+S	java:S106"9Replace this use of System.out or System.err by a logger.(®ïáèüÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.( ¯“¿
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ŒéÈüÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(©öí²ıÿÿÿÿ
+N	java:S106 "9Replace this use of System.out or System.err by a logger.(ä÷¬»
+T
+java:S1611""2Remove the parentheses around the "nome" parameter(–ªºâùÿÿÿÿ8šÉ“¸Ú0
+Z	java:S106+"9Replace this use of System.out or System.err by a logger.(»¶Äúÿÿÿÿ8ú£¸Ú0
+]	java:S125'"<This block of commented-out lines of code should be removed.(—Ûóäûÿÿÿÿ8ï·Ÿ¸Ú0
+Z	java:S1061"9Replace this use of System.out or System.err by a logger.(ƒ•÷øøÿÿÿÿ8ª ¸Ú0
