@@ -7,8 +7,9 @@ public class Main {
         System.out.println("Ferrari");
         ferrari.temArDigital();
         ferrari.direcaoAutonoma();
+        System.out.println("Tem saida de ar para os passageiros de traz? " + ferrari.temSaidaArAtraz());
         System.out.println("Tipo combustivel: " + ferrari.getTipoCombustivel());
-        System.out.println("O preço da ferrari foi de: " + ferrari.getPreco() +  "\n");
+        System.out.println("O preço da ferrari foi de: " + ferrari.getPreco() + "\n");
 
         Casa casa = new Casa();
         System.out.println("O preço da casa foi de: " + casa.getPreco());

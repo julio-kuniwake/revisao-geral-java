@@ -77,14 +77,6 @@ q
 Asrc/orientado_objeto/encapsulamento/getter_setter/PessoaMain.java,0\a\0a5515355ca7330e7748b9869d817d9b670b1414
 x
 Hsrc/orientado_objeto/encapsulamento/modificadosres_acesso/casaB/Ana.java,c\1\c16fdb263a66905d9edae831a96aa1d51b4271af
-\
-,src/orientado_objeto/polimorfismo/Arroz.java,9\8\987432c195b07cda96e8dd0c5ab7b352fb14ab63
-]
--src/orientado_objeto/polimorfismo/Feijao.java,5\e\5e855d6047913bc6a1aea164dbff484d4dcfcc53
-^
-.src/orientado_objeto/polimorfismo/Sorvete.java,9\a\9a057b13ffa68491fbf5a51169727b1aedecba33
-]
--src/orientado_objeto/polimorfismo/Pessoa.java,c\0\c0ccc6d3e88757972b6de51c6aa96e155dfd5617
 b
 2src/orientado_objeto/heranca/exercicios/Carro.java,3\9\39e3577ac10812a939e919ece9fb16af49924f38
 b

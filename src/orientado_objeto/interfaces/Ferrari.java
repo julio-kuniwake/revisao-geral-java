@@ -5,6 +5,11 @@ public class Ferrari extends Carro implements Luxo, ItemCaro { // Ferrari é um 
         super(tipoCombustivel); // tipoCombustivel vem de 'Carro'
     }
 
+//    @Override
+//    public boolean temSaidaArAtraz() { // Caso queira é possivel sobrescrever o metodo default da interface 'Luxo'
+//        return false;
+//    }
+
     @Override
     public void temArDigital() {
         System.out.println("Ar Digital de duas zonas!");
