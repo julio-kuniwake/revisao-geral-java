@@ -1,4 +1,4 @@
-package lambdas.functional_interface.predicate;
+package lambdas.functional_interface;
 
 public class Produto {
     private String nome;
@@ -33,5 +33,16 @@ public class Produto {
 
     public void setDesconto(double desconto) {
         this.desconto = desconto;
+    }
+
+    @Override
+    public String toString() {
+        double precoFinal = getPreco() * (1 - getDesconto());
+        return "Produto{" +
+                "nome='" + nome + '\'' +
+                ", preco=" + preco +
+                ", desconto=" + desconto +
+                ", preço final=" + precoFinal +
+                '}';
     }
 }

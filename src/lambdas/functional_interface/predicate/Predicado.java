@@ -1,5 +1,7 @@
 package lambdas.functional_interface.predicate;
 
+import lambdas.functional_interface.Produto;
+
 import java.util.function.Predicate;
 
 public class Predicado {
