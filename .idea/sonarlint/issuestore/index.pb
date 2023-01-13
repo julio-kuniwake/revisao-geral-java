@@ -119,8 +119,6 @@ Y
 ,src/orientado_objeto/interfaces/Ferrari.java,a\1\a1864cc397c7acc98f2c40443fdaef7bfb4680f7
 W
 'src/lambdas/exemplo_lambda/Calculo.java,6\1\61410993cbb2ee4677d098454ce924bb078f11e0
-]
--src/lambdas/functional_interface/Produto.java,e\0\e0bbc17f61609d72d0b7942877fe8dd2d4bf7cee
 i
 9src/lambdas/functional_interface/consumer/Consumidor.java,e\3\e322b88c801c17a53826ee5b62575bf9954c5750
 P
