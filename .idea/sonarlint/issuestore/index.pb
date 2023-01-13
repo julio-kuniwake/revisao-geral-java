@@ -117,17 +117,21 @@ Y
 )src/orientado_objeto/interfaces/Main.java,f\8\f8d632fc939142bb31fd9101796814123a25ed1e
 \
 ,src/orientado_objeto/interfaces/Ferrari.java,a\1\a1864cc397c7acc98f2c40443fdaef7bfb4680f7
+W
+'src/lambdas/exemplo_lambda/Calculo.java,6\1\61410993cbb2ee4677d098454ce924bb078f11e0
+]
+-src/lambdas/functional_interface/Produto.java,e\0\e0bbc17f61609d72d0b7942877fe8dd2d4bf7cee
+i
+9src/lambdas/functional_interface/consumer/Consumidor.java,e\3\e322b88c801c17a53826ee5b62575bf9954c5750
+P
+ src/lambdas/foreach/Foreach.java,d\4\d498f10d275b2e80b855159064c28fd2b5b3d6d1
+o
+?src/lambdas/exemplo_lambda/CalculoMainLambdaBinaryOperator.java,7\f\7f847580f74763ed6d4e845100b5969ca12369df
+a
+1src/lambdas/exemplo_lambda/CalculoMainNormal.java,5\4\5470dee488dbf64d06c48f9ebe217a895b13f061
 [
 +src/lambdas/exemplo_lambda/Multiplicar.java,3\3\33988fab6a9528c3045fb25d2ccdd4ff18c2ddeb
 U
 %src/lambdas/exemplo_lambda/Somar.java,0\a\0a1e1bae9b7c0b271b0730f8e5759a63474ed85a
 a
-1src/lambdas/exemplo_lambda/CalculoMainNormal.java,5\4\5470dee488dbf64d06c48f9ebe217a895b13f061
-o
-?src/lambdas/exemplo_lambda/CalculoMainLambdaBinaryOperator.java,7\f\7f847580f74763ed6d4e845100b5969ca12369df
-P
- src/lambdas/foreach/Foreach.java,d\4\d498f10d275b2e80b855159064c28fd2b5b3d6d1
-W
-'src/lambdas/exemplo_lambda/Calculo.java,6\1\61410993cbb2ee4677d098454ce924bb078f11e0
-]
--src/lambdas/functional_interface/Produto.java,e\0\e0bbc17f61609d72d0b7942877fe8dd2d4bf7cee
+1src/lambdas/exemplo_lambda/CalculoMainLambda.java,c\d\cd93b3cdb9a15281313ab6c9e9df98c4a80a1573
