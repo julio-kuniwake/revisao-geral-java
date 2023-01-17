@@ -1,4 +1,4 @@
-package streams.map;
+package streams;
 
 public class CachorroDto {
     String nome;
