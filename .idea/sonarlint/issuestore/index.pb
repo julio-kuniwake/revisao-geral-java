@@ -133,3 +133,17 @@ U
 %src/lambdas/exemplo_lambda/Somar.java,0\a\0a1e1bae9b7c0b271b0730f8e5759a63474ed85a
 a
 1src/lambdas/exemplo_lambda/CalculoMainLambda.java,c\d\cd93b3cdb9a15281313ab6c9e9df98c4a80a1573
+s
+Csrc/lambdas/functional_interface/predicate/PredicadoComposicao.java,f\2\f27d0bdeb58ffb22b5358e93d3c14395ecd2bff3
+i
+9src/lambdas/functional_interface/predicate/Predicado.java,2\4\2490e1400b44989f6afba64664c715e68b3239ad
+i
+9src/lambdas/functional_interface/supplier/Fornecedor.java,6\3\635bda76b3a332e75aff4ca95a4fdf0db4e91448
+u
+Esrc/lambdas/functional_interface/binary_operator/OperadorBinario.java,b\f\bf341286212ff0d536c49688c5bc84456a3ae4dc
+s
+Csrc/lambdas/functional_interface/unary_operator/OperadorUnario.java,c\4\c42a02f6389bdc50181210b0158f9caae0e51aa8
+e
+5src/lambdas/functional_interface/function/Funcao.java,b\2\b2b6694a6bf685135b28df6436173c027336cd3d
+]
+-src/lambdas/functional_interface/Produto.java,e\0\e0bbc17f61609d72d0b7942877fe8dd2d4bf7cee
