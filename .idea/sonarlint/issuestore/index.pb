@@ -147,3 +147,15 @@ e
 5src/lambdas/functional_interface/function/Funcao.java,b\2\b2b6694a6bf685135b28df6436173c027336cd3d
 ]
 -src/lambdas/functional_interface/Produto.java,e\0\e0bbc17f61609d72d0b7942877fe8dd2d4bf7cee
+k
+;src/lambdas/functional_interface/exercicios/Exercicio1.java,f\a\faca0030a8d2d5880479b67e7d59fea0bb5132dc
+g
+7src/streams/list_iterator_stream/ImprimindoObjetos.java,4\b\4b5e1e9b3ba4a5a899a49011e65f4c391f1007c3
+_
+/src/streams/criando_streams/CriandoStreams.java,4\7\47824bc9f07be7b9591ba33d82158c3f88a28dac
+R
+"src/streams/map/ComposicaoMap.java,5\6\5636c74aac8efdd9b34865bce99dc71fa650dd57
+Q
+!src/streams/map/ExercicioMap.java,8\6\86b762ec7cc899021acca3c3f52113cdd8b9940e
+L
+src/streams/CachorroDto.java,c\6\c6192a73c824706731de8a5b36f171c389a76fdf
