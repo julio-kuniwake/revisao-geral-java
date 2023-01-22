@@ -163,3 +163,9 @@ s
 Csrc/lambdas/functional_interface/unary_operator/OperadorUnario.java,c\4\c42a02f6389bdc50181210b0158f9caae0e51aa8
 i
 9src/lambdas/functional_interface/supplier/Fornecedor.java,6\3\635bda76b3a332e75aff4ca95a4fdf0db4e91448
+H
+src/streams/Produto.java,5\6\564991e1338afa81745fa2b51b4322d7b9cec0c1
+W
+'src/streams/filter/ExercicioFilter.java,f\a\fa017b64cdd43082efdd02f79d6428e34789ab3d
+i
+9src/lambdas/functional_interface/predicate/Predicado.java,2\4\2490e1400b44989f6afba64664c715e68b3239ad
