@@ -1,0 +1,10 @@
+
+]
+java:S1854";Remove this useless assignment to local variable "println".(Ëûğ…ûÿÿÿÿ8ßÑßşÛ0
+S	java:S106"9Replace this use of System.out or System.err by a logger.(’Î»àúÿÿÿÿ
+s
+java:S4276"QRefactor this code to use the more specialised Functional Interface 'IntConsumer'(Ëûğ…ûÿÿÿÿ8áÑßşÛ0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Ëûğ…ûÿÿÿÿ8ĞåÚşÛ0
+N
+java:S1481",Remove this unused "println" local variable.(Ëûğ…ûÿÿÿÿ8áÑßşÛ0
+Q	java:S125"<This block of commented-out lines of code should be removed.(Ô˜é
