@@ -1,6 +1,7 @@
 package streams.map;
 
 import streams.Cachorro;
+import streams.CachorroDto;
 
 import java.util.Arrays;
 import java.util.List;
