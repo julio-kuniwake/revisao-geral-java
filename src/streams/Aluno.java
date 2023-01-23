@@ -38,4 +38,8 @@ public class Aluno {
     public void setBomComportamento(boolean bomComportamento) {
         this.bomComportamento = bomComportamento;
     }
+
+    public String toString(){
+        return nome + " tem nota: " + nota;
+    }
 }
